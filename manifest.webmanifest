@@ -1,0 +1,11 @@
+{
+  "name": "LoNDoN — The Secret of Women",
+  "short_name": "LoNDoN",
+  "description": "Forthcoming beauty, cosmetics and wellness concept.",
+  "lang": "en",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#321b1c",
+  "theme_color": "#d8a69c",
+  "icons": [{"src": "/assets/seo/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}
